@@ -7,7 +7,7 @@ Right, when our group was formed, we had the possibility to discuss our ideas, a
 •	Project Description: what is the project, what is the overall concept and theme, and what kind of experience you were striving to create?
 
 
--	The project was inspired by grudge and scary horror jump scares we used to get as links from our friends. We also decided to create a scary concept, with possible jump scares and a tale that would take the user when they would be scrolling. We decided that we would be asking questions, more so – rhetorical, but that would make the player follow along with this story of tagging along a scary character that would be leading into something unexpected. With the dark colors, red tones, we wanted to create suspense through every scroll, so that the player would be willing to continue scrolling whilst being uneasy.
+-	The project was inspired by grudge and scary horror jump scares we used to get as links from our friends. We also decided to create a scary concept, with  jump scares and a tale that would take the user when they would be scrolling. We decided that we would be asking questions, more so – rhetorical, but that would make the player follow along with this story of tagging along a scary character that would be leading into something unexpected. With the dark colors, red tones, we wanted to create suspense through every scroll, so that the player would be willing to continue scrolling whilst feeling uneasy.
 
 
 •	Process: How did you go about implementing the concept. Describe your role and what your contribution was.
@@ -21,4 +21,6 @@ Right, when our group was formed, we had the possibility to discuss our ideas, a
 -	After Khalifa sent his version of the code, me and Lukrecija went through the code and added all the illustrations that should have been included in the first place, but for some reason were missing. I also decided to compress the video, as that was the only way it would upload on GitHub. I found the video when we wanted to add sounds, but sadly we could not figure out the sounds for this project.
 
 •	Reflection/Evaluation: This should bookend the initial concept and talk about whether your expectations and goals were met in the process of building the final working version.
+
+
 -	My expectations were met, even though working in groups and dividing the workload is hard. In the end, I would say that the workload was divided appropriately, and I am most happy that the website was connected from an artistic point of view into a working interface. However, some things we did not get to work on, and it would have been better if we had declared our capabilities beforehand. Yet, that is also hard to do, as people in general tend to overestimate outcomes. I am happy that the website is working and is telling the story we wanted to tell, but I also wish that we had figured out the sound part of the website.
