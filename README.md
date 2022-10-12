@@ -1,6 +1,6 @@
 # interactive-comic
 
-Right, when our group was formed, we had the possibility to discuss our ideas, and we went through a couple of genres. We decided jointly that we would do horror, and even though I wanted to mix it with comedy, some of my groupmates only wanted to stick to one genre. 
+Right, when our group was formed, we had the possibility to discuss our ideas, and we went through a couple of genres. We decided jointly that we would do horror, and even though I wanted to mix it with comedy, some of my groupmates only wanted to stick to one (main) genre. 
 
 •	Project Name – “Are you alone?” We came up with it due to the scary nature of the project after it was done. It seemed fitting to wait, and it popped up naturally after we had our ideas and layouts set.
 
